@@ -1,0 +1,1 @@
+# SolarPanelEstimator for multi-period
